@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonA" type="id" />
+    <item name="editRowsA" type="id" />
+    <item name="editColsA" type="id" />
+    <item name="matrixA" type="id" />
+    <item name="buttonB" type="id" />
+    <item name="editRowsB" type="id" />
+    <item name="editColsB" type="id" />
+    <item name="matrixB" type="id" />
+    <item name="matrixC" type="id" />
+    <item name="sub" type="id" />
+    <item name="sub2" type="id" />
+    <item name="mul" type="id" />
+    <item name="mul2" type="id" />
+    <item name="swap1" type="id" />
+    <item name="swap2" type="id" />
+    <item name="swap3" type="id" />
+    <item name="scalar" type="id" />
+    <item name="scaleNum" type="id" />
+    <item name="transpose" type="id" />
+    <item name="toggleButton" type="id" />
+</resources>
